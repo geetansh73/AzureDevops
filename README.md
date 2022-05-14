@@ -7,7 +7,10 @@ This documentation is about Git Devops Setup on the Thigworx and Pushing/Pulling
 •	Import the Extension in to the Thingworx (Thingworx should be Licensed)
 •	Create Thing based on Thing Template GitBackup Template
 •	Do the Following Configurations in the Created Thing. (Get the Git Credentials from the Repo from the Azure Devops)
-![image](https://user-images.githubusercontent.com/67698473/168417030-56d47c81-be13-49a3-a142-06ca1dad351d.png)
+
+![image](https://user-images.githubusercontent.com/67698473/168417080-448b8ce6-1cbd-43a5-b7ed-483cc0ead9a0.png)
+![image](https://user-images.githubusercontent.com/67698473/168417088-54fd2099-cdc2-49cd-b841-7ccbc182546f.png)
+
 •	Go to mashup and Open the GitBackup.Main.Mashup and click on PULL button to merge master branch with the repo.
 
 #### Pushing Entities to Azure Devops Repo
