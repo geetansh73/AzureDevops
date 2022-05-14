@@ -8,7 +8,7 @@ This documentation is about Git Devops Setup on the Thigworx and Pushing/Pulling
 •	Create Thing based on Thing Template GitBackup Template
 •	Do the Following Configurations in the Created Thing. (Get the Git Credentials from the Repo from the Azure Devops)
 
-![image](https://user-images.githubusercontent.com/67698473/168417080-448b8ce6-1cbd-43a5-b7ed-483cc0ead9a0.png)
+![image](https://user-images.githubusercontent.com/67698473/168418576-19996173-3b57-4b95-8c6c-84fef70116ee.png)
 
 ![image](https://user-images.githubusercontent.com/67698473/168417088-54fd2099-cdc2-49cd-b841-7ccbc182546f.png)
 
