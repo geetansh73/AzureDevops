@@ -13,7 +13,7 @@ This documentation is about Git Devops Setup on the Thigworx and Pushing/Pulling
 
 ![image](https://user-images.githubusercontent.com/67698473/168417088-54fd2099-cdc2-49cd-b841-7ccbc182546f.png)
 
-##### •	Go to mashup and Open the GitBackup.Main.Mashup and click on PULL button to merge master branch with the repo.
+#### •	Go to mashup and Open the GitBackup.Main.Mashup and click on PULL button to merge master branch with the repo.
 
 ![image](https://user-images.githubusercontent.com/67698473/168417115-c77f2393-344a-4e28-acf2-99f42803647b.png)
 
